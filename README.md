@@ -132,4 +132,4 @@ cp build/treefmt ~/.local/bin/treefmt
 
 # License
 
-GNU GPL v3
+MIT License
